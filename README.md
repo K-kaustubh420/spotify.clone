@@ -16,7 +16,7 @@ The clone of Spotify  music platform where I have created the Front-end clone of
 
  # How to use 
   Clone the Repo using the 
- - command git clone  https://github.com/neupanekiran/Spotifty-Clone.git
+ - command git clone  
   and run  using 
 -  npm  install 
   - npm run dev
